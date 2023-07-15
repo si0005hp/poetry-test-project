@@ -1,0 +1,6 @@
+development:
+  id: dev
+  model_version: v1.0.2
+staging:
+  id: stg
+  model_version: v0.0.1
